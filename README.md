@@ -33,4 +33,4 @@ I'm passionate about creating impactful web solutions 🚀. With **freelance** e
 🛠️ I'm constantly exploring new challenges, expanding my technical expertise, and staying curious about the latest tech innovations. If you're looking for a developer who brings passion and skill to the table, feel free to connect! Let's build something amazing together!
 
 📫 **Let's talk!**
-[LinkedIn](www.linkedin.com/in/richardnascimento18) | [Email](mailto:juniordomingos1980@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/richardnascimento18) | [Email](mailto:juniordomingos1980@gmail.com)
