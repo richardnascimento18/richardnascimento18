@@ -1,6 +1,6 @@
 # Hi there, I'm Richard Nascimento👋
 
-### 💻 Full Cycle Developer | 18 years old | Tech Enthusiast 
+### 💻 Full Stack Developer | 18 years old | Tech Enthusiast 
 
 I'm passionate about creating impactful tech solutions 🚀. With **freelance** experience under my belt, I've sharpened my skills in software development, always staying updated with the latest trends and technologies. My focus is on building **scalable** and **efficient** applications that turn ideas into reality.
 
