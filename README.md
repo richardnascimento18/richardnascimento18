@@ -53,8 +53,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=richardnasc&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=richardnasc&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=richardnascimento18&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=richardnascimento18&theme=radical" />
 </p>
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardnasc&layout=compact&theme=radical" />
