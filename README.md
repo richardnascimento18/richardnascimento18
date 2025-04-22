@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Richard Nascimento 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer · 18 y/o · Builder of Ideas</b><br/>
+  <b>Full Stack Developer · 18 y/o · Full Stack Developer</b><br/>
   Crafting meaningful, scalable tech with vision and code 🚀
 </p>
 
