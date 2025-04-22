@@ -106,14 +106,14 @@
 
 ## 🔥 Currently Vibing With...
 
-[![Richard's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=richardnascimento18&theme=radical&layout=compact)](https://wakatime.com/@richardnasc)
+[![Richard's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=richardnascimento18&theme=radical&layout=compact)](https://wakatime.com/@richardnascimento18)
 
 ---
 
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=richardnasc&theme=radical&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=richardnascimento18&theme=radical&margin-w=15&margin-h=15" />
 </p>
 
 ---
