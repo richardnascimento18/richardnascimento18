@@ -14,6 +14,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=richardnascimento18&style=for-the-badge&color=brightgreen" alt="Profile Views" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -58,11 +62,11 @@
 
 <td align="center" valign="top" width="50%">
 
-### 🧠 Data Mappers & ORMs  
+### 🔍 ORMs & Query Builders  
 <p>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
-  <img src="https://img.shields.io/badge/Knex.js-333333?style=for-the-badge&logo=knex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Knex.js-7B4C9C?style=for-the-badge&logo=Knex.js&logoColor=white" />
 </p>
 
 ### 🎨 Styling Arsenal  
@@ -97,6 +101,20 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardnascimento18&layout=donut&theme=radical&hide_border=true&langs_count=8"/>
 </div>
+
+---
+
+## 🔥 Currently Vibing With...
+
+[![Richard's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=richardnascimento18&theme=radical&layout=compact)](https://wakatime.com/@richardnasc)
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=richardnasc&theme=radical&margin-w=15&margin-h=15" />
+</p>
 
 ---
 
