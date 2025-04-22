@@ -106,7 +106,8 @@
 
 ## 🔥 Currently Vibing With...
 
-[![Richard's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=richardnascimento18&theme=radical&layout=compact)](https://wakatime.com/@richardnascimento18)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=richardnascimento18&repo=the-news-case-project&theme=radical)](https://github.com/richardnascimento18/the-news-case-project)
+
 
 ---
 
