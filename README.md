@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm Richard Nascimento 👋</h1>
+<h1 align="center">Hey there, I'm Richard Nascimento 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer | 18 y/o | Builder of Ideas</b><br/>
-  Passionate about crafting scalable, meaningful tech solutions 🚀
+  <b>Full Stack Developer · 18 y/o · Builder of Ideas</b><br/>
+  Crafting meaningful, scalable tech with vision and code 🚀
 </p>
 
 <p align="center">
@@ -22,14 +22,14 @@
 
 ## 👨‍💻 About Me
 
-🎯 I’m a **Full Stack Developer** with a strong foundation in both **frontend** and **backend** technologies.  
-📚 Studying Software Engineering at **FIAP University** while developing real-world solutions through side projects and freelance work.  
-🌎 Fluent in English — always eager to collaborate on global tech missions.  
-🧠 I thrive on building things from scratch, designing systems with intention, and learning from every challenge.
+🎯 **Full Stack Developer** with a focus on building robust, scalable systems from backend architecture to intuitive frontend UIs.  
+📚 Studying Software Engineering @ **FIAP University**, turning theory into real-world impact.  
+🌎 Fluent in English · Driven by purpose and obsessed with improvement.  
+🧠 Love starting from scratch, architecting ideas, and coding with intentionality.
 
 ---
 
-## 🧰 Tech Toolbox
+## 🧰 Tech Stack
 
 <div align="center">
 
@@ -69,14 +69,14 @@
   <img src="https://img.shields.io/badge/Knex.js-7B4C9C?style=for-the-badge&logo=Knex.js&logoColor=white" />
 </p>
 
-### 🎨 Styling Arsenal  
+### 🎨 Styling  
 <p>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
 </p>
 
-### 🛠️ Tools & Utilities  
+### 🛠️ Tools  
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -104,10 +104,9 @@
 
 ---
 
-## 🔥 Currently Vibing With...
+## 🔥 Currently Vibing With
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=richardnascimento18&repo=the-news-case-project&theme=radical)](https://github.com/richardnascimento18/the-news-case-project)
-
 
 ---
 
@@ -121,22 +120,21 @@
 
 ## 🧠 What Drives Me
 
-💡 Curiosity. Impact. Craftsmanship.  
-Whether it’s diving into backend architecture, designing seamless UIs, or experimenting with clean code principles — I love solving real problems and turning vision into working systems.
+💡 Curiosity · Impact · Craftsmanship  
+From clean code to architectural design, I’m passionate about solving real-world problems through thoughtful, well-structured systems.
 
-🛠️ Currently exploring:
+🛠️ Currently diving deep into:
 - 🧱 Clean & Hexagonal Architecture  
 - ⚡ Event-driven design with **Kafka**  
-- ⚙️ gRPC and GraphQL APIs  
+- 🔗 gRPC & GraphQL APIs  
 - 🧩 Domain-Driven Design (DDD)  
 - ☁️ Docker, Terraform & DevOps tooling
 
 ---
 
-## ✨ Let's Connect
+## ✨ Let’s Connect
 
-Wanna talk code, projects, or just tech in general? I’m always up for new ideas and collabs.  
-Let's build something amazing together.
+Wanna talk code, collab on something awesome, or brainstorm the next big idea?
 
 <p align="center">
   <a href="https://www.linkedin.com/in/richardnascimento18" target="_blank">🔗 LinkedIn</a> • 
