@@ -23,7 +23,7 @@
 ## 👨‍💻 About Me
 
 🎯 **Full Stack Developer** with a focus on building robust, scalable systems from backend architecture to intuitive frontend UIs.  
-📚 Studying Software Engineering @ **FIAP University**, turning theory into real-world impact.  
+📚 Studying Systems Analysis and Development @ **FIAP University**, turning theory into real-world impact.  
 🌎 Fluent in English · Driven by purpose and obsessed with improvement.  
 🧠 Love starting from scratch, architecting ideas, and coding with intentionality.
 
