@@ -130,10 +130,10 @@
 From clean code to architectural design, I’m passionate about solving real-world problems through thoughtful, well-structured systems.
 
 🛠️ Currently diving deep into:
-- 🧱 Clean & Hexagonal Architecture  
+- 🧱 Hexagonal Architecture  
+- 🧼 Clean Code · 🧱 Clean Architecture · 🧩 Microservices  
 - 🔗 gRPC & GraphQL APIs  
 - 🧩 Domain-Driven Design (DDD)  
-- 🧼 Clean Code · 🧱 Clean Architecture · 🧩 Microservices  
 - 🐳 Docker
 
 ---
