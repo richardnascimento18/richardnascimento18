@@ -104,7 +104,7 @@
 
 ## 🔥 Currently Vibing With
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=richardnascimento18&repo=flechakids&theme=radical)](https://github.com/richardnascimento18/flechakids)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=richardnascimento18&repo=flechakids&theme=radical)](https://github.com/richardnascimento18/screenmatch)
 
 ---
 
