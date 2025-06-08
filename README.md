@@ -71,6 +71,8 @@
 ### 🔌 API Styles  
 <p>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white" />
+  <img src="https://img.shields.io/badge/gRPC-4486F5?style=for-the-badge&logo=grpc&logoColor=white" />
 </p>
 
 ### 🎨 Styling  
