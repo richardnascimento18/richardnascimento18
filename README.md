@@ -24,6 +24,7 @@
 
 🎯 **Full Stack Developer** with a focus on building robust, scalable systems from backend architecture to intuitive frontend UIs.  
 📚 Studying Systems Analysis and Development @ **FIAP University**, turning theory into real-world impact.  
+💻 Currently diving into Java and strengthening backend fundamentals.  
 🌎 Fluent in English · Driven by purpose and obsessed with improvement.  
 🧠 Love starting from scratch, architecting ideas, and coding with intentionality.
 
@@ -54,6 +55,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 </td>
@@ -64,7 +66,11 @@
 <p>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
-  <img src="https://img.shields.io/badge/Knex.js-7B4C9C?style=for-the-badge&logo=Knex.js&logoColor=white" />
+</p>
+
+### 🔌 API Styles  
+<p>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </p>
 
 ### 🎨 Styling  
@@ -123,10 +129,10 @@ From clean code to architectural design, I’m passionate about solving real-wor
 
 🛠️ Currently diving deep into:
 - 🧱 Clean & Hexagonal Architecture  
-- ⚡ Event-driven design with **Kafka**  
 - 🔗 gRPC & GraphQL APIs  
 - 🧩 Domain-Driven Design (DDD)  
-- ☁️ Docker, Terraform & DevOps tooling
+- 🧼 Clean Code · 🧱 Clean Architecture · 🧩 Microservices  
+- 🐳 Docker
 
 ---
 
