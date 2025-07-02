@@ -105,10 +105,6 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=richardnascimento18&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=richardnascimento18&theme=radical&hide_border=true"/>
-</div>
-
-<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardnascimento18&layout=donut&theme=radical&hide_border=true&langs_count=8"/>
 </div>
 
