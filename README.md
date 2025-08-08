@@ -50,6 +50,8 @@
 
 ### ⚙️ Backend  
 <p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
@@ -112,7 +114,7 @@
 
 ## 🔥 Currently Vibing With
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=richardnascimento18&repo=screenmatch&theme=radical)](https://github.com/richardnascimento18/screenmatch)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=richardnascimento18&repo=alurafood-microservices-course&theme=radical)](https://github.com/richardnascimento18/alurafood-microservices-course)
 
 ---
 
