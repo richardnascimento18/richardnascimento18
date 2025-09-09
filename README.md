@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Richard Nascimento 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer · 18 y/o · Full Stack Developer</b><br/>
+  <b>Backend Software Engineer · 18 y/o · Backend Software Engineer</b><br/>
   Crafting meaningful, scalable tech with vision and code 🚀
 </p>
 
@@ -26,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-🎯 **Full Stack Developer** with a focus on building robust, scalable systems from backend architecture to intuitive frontend UIs.  
+🎯 **Backend Software Engineer** with a focus on building robust, scalable systems from backend architecture to intuitive frontend UIs.  
 📚 Studying Systems Analysis and Development @ **FIAP University**, turning theory into real-world impact.  
 💻 Currently diving into Java and strengthening backend fundamentals.  
 🌎 Fluent in English · Driven by purpose and obsessed with improvement.  
