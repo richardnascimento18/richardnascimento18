@@ -127,7 +127,7 @@
 
 ## 🔥 Currently Vibing With
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=richardnascimento18&repo=alurafood-microservices-course&theme=radical)](https://github.com/richardnascimento18/alurafood-microservices-course)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=richardnascimento18&repo=cloud-notes&theme=radical)](https://github.com/richardnascimento18/cloud-notes)
 
 ---
 
