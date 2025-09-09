@@ -6,15 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/richardnascimento18" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:juniordomingos1980@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=richardnascimento18&style=for-the-badge&color=brightgreen" alt="Profile Views" />
 </p>
 
