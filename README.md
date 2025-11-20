@@ -45,7 +45,6 @@
 <p>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/gRPC-4486F5?style=for-the-badge" />
 </p>
 
 ### 🗄️ Databases  
@@ -54,8 +53,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon%20Aurora-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
 </p>
 
 ### ☁️ AWS  
@@ -76,13 +73,11 @@
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </p>
 
 ### 🔍 ORMs & Query Builders  
 <p>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
 </p>
 
 ### 🎨 Styling  
@@ -118,7 +113,7 @@
 
 ## 🔥 Currently Vibing With
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=richardnascimento18&repo=cloud-notes&theme=radical)](https://github.com/richardnascimento18/cloud-notes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=richardnascimento18&repo=preco-justo-challenge&theme=radical)](https://github.com/richardnascimento18/preco-justo-challenge)
 
 ---
 
