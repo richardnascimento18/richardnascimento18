@@ -62,8 +62,5 @@ Most of my professional experience is centered around **Backend Engineering**, e
 
 ## 🌎 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Richard_Nascimento-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/richardnascimento18)
-
-[![Portfolio](https://img.shields.io/badge/Website-Flecha_Kids-000000?style=flat-square&logo=vercel)](https://flechakids.space)
-
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:juniordomingos1980@gmail.com)
+[![LinkedIn]](https://linkedin.com/in/richardnascimento18)
+[![Email]](mailto:juniordomingos1980@gmail.com)
