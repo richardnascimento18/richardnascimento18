@@ -1,66 +1,45 @@
-# Hi there! 👋
+# Richard Nascimento
 
-I'm **Richard Nascimento**, a Full Stack Software Engineer from São Paulo, Brazil 🇧🇷
+**Software Engineer — Backend / Cloud / Distributed Systems** · São Paulo, Brazil
 
-Most of my professional experience is centered around **Backend Engineering**, especially with **Java + Spring**, while also enjoying cloud infrastructure, distributed systems, and building developer tools.
+I build backend systems, cloud-native software, and developer tooling. My main focus is Java and Spring, with experience across distributed systems, cloud infrastructure, and web applications. I value clear boundaries, pragmatic architecture, and software that is useful in practice.
 
----
+## Selected work
 
-## 🚀 Current Focus
+### [DevDock](https://github.com/richardnascimento18/devdock)
 
-- ☕ Backend Development with Java & Spring Boot
-- ☁️ AWS & Cloud Architecture
-- 🐳 Containers & Kubernetes
-- ⚡ Building developer productivity tools
-- 📚 Final year of Systems Analysis & Development @ FIAP
+A Go developer tool that scans project directories and opens projects from a keyboard-driven terminal UI. It prepares tmux sessions with the windows, panes, and commands each project needs, without maintaining custom shell scripts.
 
----
+`Go` · `TUI` · `tmux`
 
-## 🛠 Tech Stack
+### [FC Admin Catalog](https://github.com/richardnascimento18/fc-admin-catalog)
 
-### Languages
+A Java and Spring catalog-management microservice set in a streaming-platform context. Its domain, application, and infrastructure layers apply Domain-Driven Design and Clean Architecture to keep responsibilities separate. **Work in progress.**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+`Java` · `Spring Boot` · `MySQL`
 
-### Backend
+### [Flecha Kids](https://flechakids.space)
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+A web platform built with a university colleague for registration and access management in a children's area. It connects an administrative dashboard and parent registration workflows with authentication at a physical kiosk.
 
-### Cloud & DevOps
+`Node.js` · `Next.js`
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+## Technical focus
 
-### Databases
+- **Backend:** Java · Spring Boot · Quarkus · Go · Node.js
+- **Architecture and integration:** Domain-Driven Design · Clean Architecture · microservices · Kafka · RabbitMQ · gRPC · GraphQL
+- **Data:** PostgreSQL · MySQL · MongoDB · Redis
+- **Platform:** AWS · Kubernetes · Docker · GitHub Actions
+- **Frontend:** React · Next.js
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+## Credentials
 
-### Frontend
+- AWS Certified Solutions Architect — Associate
+- AWS Certified Cloud Practitioner
+- FIAP — Análise e Desenvolvimento de Sistemas, 2025–2026
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+**Languages:** Portuguese (native) · English (C1/C2) · Japanese (N3)
 
----
+## Elsewhere
 
-## 📜 Certifications
-
-![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS CCP](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-
----
-
-## 🌎 Connect
-
-[![LinkedIn]](https://linkedin.com/in/richardnascimento18)
-[![Email]](mailto:juniordomingos1980@gmail.com)
+[Website](https://richardnascimento18.vercel.app) · [LinkedIn](https://linkedin.com/in/richardnascimento18) · [Email](mailto:juniordomingos1980@gmail.com)
